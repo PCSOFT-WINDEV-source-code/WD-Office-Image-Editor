@@ -1,0 +1,90 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Office Image Editor
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Windows 32-bit executable
+    internal_properties : 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
+    configuration_id : 7677315589682009393
+    type : 1
+    generation_name : WD Office Image Editor.exe
+    version :
+     major_version : 23
+     minor_version : 31
+     internal_generation_version : 7
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 2
+ elements :
+  identifier : 0x4a1d6566005d833b
+  elements :
+   -
+     name : WIN_Main
+     identifier : 0x4a1d6621009a5f98
+     internal_properties : CAAAAAgAAACxgy97RIHBBh7u0mQDvo3MoM1ahAGnSJ0Ysp05uweu3NufuVZ/TROCLFT/uJt/OKO0
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : TEST_Main
+     identifier : 0x4aec5787001627bb
+     internal_properties : CAAAAAgAAACJhfGVEk/niFX3qLRYaSvl5YagMBnfbZhWrfZhHxt7ReMZ4EfIcEd09iqUbDSsVESMlA==
+     physical_name : .\TEST_Main.wxt
+     type : 17
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components :
+   -
+     physical_name : .\WD Office\WD Office.wci
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - en-GB
+ code_elements :
+  internal_properties : CAAAAAgAAACDqaX4wnlNbNucFUNJw9Oo47w9WGHrsQgr67XrlvxM9bVQRfHXK2+fpjHr6i+Nm1fAMZc1zvj6M0rt2xVTQkzP
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACrompbD716K5HCk73WBtB/OFpEKrUB44UbtPo4lIvHFySBtZWKyWcLzAtMaatm3c7DvzVbLkeM51KP46hppWt2xJiOFJsoRmw85ZPWhroVDCpXYqpUSDbppFWUrIAWyQMsUDebVRCEN3H0zNfqQ211rOPt6/0cGRkwkde+mw0kJw==
+     code : |1+
+      
+      // Declares the supported extension to the Office component
+      // The component manages the association from the command line (/shellassoc, /shellunassoc)
+      DeclareExtensions( "wdpic;png;jpg;jpeg;bmp;gif;tif;ico", "Image files" )
+      
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Windows 32-bit executable
+     identifier : 0x4a1d6566005e8389
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
